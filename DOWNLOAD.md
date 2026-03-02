@@ -1,9 +1,29 @@
-# Download Links for Project Files
+# All-in-One Download Link
 
-Here are the download links for all the project files:
+To download the entire project, use the following link:
 
-- [File 1](link-to-file-1)
-- [File 2](link-to-file-2)
-- [File 3](link-to-file-3)
+[Download ReturnIt](https://example.com/download-link)
 
-Feel free to reach out if you need any assistance!
+# Quick Start Guide
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yuvarajweb-png/ReturnIt.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd ReturnIt
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Start the application**:
+   ```bash
+   npm start
+   ```
+
+5. **Open your browser** and navigate to `http://localhost:3000` to see the app in action!
